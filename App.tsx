@@ -1,8 +1,7 @@
-import { Text } from "react-native";
+import { Home }  from './src/screens/Home';
 
 export default function App() {
-
   return (
-    <Text>Olá Mundo!</Text>
+      <Home />
   )
 }
